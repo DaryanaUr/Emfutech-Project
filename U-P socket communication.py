@@ -14,3 +14,4 @@ send_command('scene1')
 # Puedo agregar lógica para esperar y enviar otro comando más tarde
 # Enviar comando para cambiar a Scene2
 send_command('scene2')
+print ("Hola")
